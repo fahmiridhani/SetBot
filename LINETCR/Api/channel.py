@@ -19,8 +19,8 @@ class Channel:
     channel_query_path = "/CH4"
 
     UA = "Line/1.4.17"
-    LA = "CHROMEOS\t1.4.17\tChrome_OS\t1"
-    
+ #   LA = "CHROMEOS\t1.4.17\tChrome_OS\t1"
+    LA = "DESKTOPMAC 10.10.2-YOSEMITE-x64 MAC 4.5.0"
 
     authToken = None
     mid = None
